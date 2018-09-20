@@ -11,6 +11,7 @@ namespace HelloGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git. I'm ShIzBr");
+            Console.WriteLine("Hello Git. I'm KrDPNsk");
             Console.ReadLine();
         }
     }
