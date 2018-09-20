@@ -12,6 +12,7 @@ namespace HelloGit
         {
             Console.WriteLine("Hello Git. I'm ShIzBr");
             Console.WriteLine("Hello Git. I'm KrDPNsk");
+            Console.WriteLine("How are you?");
             Console.ReadLine();
         }
     }
