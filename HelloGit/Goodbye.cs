@@ -15,6 +15,4 @@ namespace HelloGit
             return this.text + "__" + message;
         }
     }
-
-    
 }
