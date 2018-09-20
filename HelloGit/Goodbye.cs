@@ -8,6 +8,13 @@ namespace HelloGit
 {
     class Goodbye
     {
-        String text = "Goodbye";
+        public string text = "Goodbye";
+
+        public string Go(string message)
+        {
+            return this.text + " " + message;
+        }
     }
+
+    
 }
