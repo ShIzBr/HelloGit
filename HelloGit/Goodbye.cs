@@ -8,6 +8,6 @@ namespace HelloGit
 {
     class Goodbye
     {
-        String text = "Goodbye";
+        String text = "Goodbye-Goodbye";
     }
 }
