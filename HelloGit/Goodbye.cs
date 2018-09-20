@@ -12,7 +12,7 @@ namespace HelloGit
 
         public string Go(string message)
         {
-            return this.text + " " + message;
+            return this.text + "_" + message;
         }
     }
 
