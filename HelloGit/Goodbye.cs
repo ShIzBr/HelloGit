@@ -8,7 +8,7 @@ namespace HelloGit
 {
     class Goodbye
     {
-        public string text = "Goodbye-Goodbye";
+        public string text = "Goodbye";
 
         public string Go(string message)
         {
